@@ -7,7 +7,6 @@
 ---
 
 ### 1. Add Data set into BigQuery
-</br>
 
 ![image](./supermarket_dataset.png)
 
