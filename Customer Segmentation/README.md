@@ -24,6 +24,8 @@
 ### 5. Interpret results and plan for actions
 </br>
 
+![image](./cluster_interpret.png)
+
 ![image](./Interpret1.png)
 
 ![image](./Interpret2.png)
