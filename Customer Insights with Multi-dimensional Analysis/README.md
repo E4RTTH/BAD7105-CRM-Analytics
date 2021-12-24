@@ -6,7 +6,6 @@
 **Dashboard** [Power BI](./Supermarket_Dashboard.csv)
 
 ## Dashboard for customer insights
----
 </br>
 
 ![image](./Customer_insight_dashboard.png)

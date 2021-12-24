@@ -6,7 +6,7 @@
 **Note book** [Customer Segmentation](./Customer_Segmentation_Group_10.ipynb)
 
 ## Method
----
+
 ### 1. Prepare customer single view
 ### 2. Cluster customers
 ### 3. Compare model performance
@@ -31,7 +31,6 @@
 ![image](./Interpret2.png)
 
 ## Result
----
 
 
 <span style="color: #85C1E9 ">**Cluster 0 : Slots**

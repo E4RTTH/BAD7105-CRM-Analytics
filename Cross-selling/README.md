@@ -6,7 +6,6 @@
 **Note Book** [Product Recommendation (Cross-selling)](./ProductRecommendation_6310422040.ipynb)
 
 ## Method
----
 
 ### 1. Data Preparation
 
@@ -24,8 +23,6 @@
 ![image](./CF.png)
 
 ## Result
----
-</br>
 
 <span style="color: #85C1E9"> **Market Basket (Top 5) -- (filter: confidence >= 0.5, lift >= 1, support >= 0.2 )**
 

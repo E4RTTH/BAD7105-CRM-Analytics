@@ -8,7 +8,6 @@
 **Note Book** [Campaign Response Model](./Campaign_Response_Model_6310422040_AUC_0_782_AUC_0_741.ipynb)
 
 ## Method
----
 
 ### 1. Data Preparation
 
@@ -28,8 +27,6 @@
 
 
 ## Result
----
-</br>
 
 <span style="color:#85C1E9"> **SVM have best performance**
 

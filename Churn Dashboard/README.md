@@ -4,7 +4,6 @@
 **Data Set** [Supermarket Data](./Supermarket_Data.csv)
 
 ## Method
----
 
 ### 1. Add Data set into BigQuery
 
@@ -154,7 +153,6 @@ CALL `crm-analytics-331409.Churn.churn`();
 
 
 ## Result
----
 </br>
 
 ![image](./Churn_Dashboard.png)

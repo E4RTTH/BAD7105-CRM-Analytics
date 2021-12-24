@@ -6,7 +6,6 @@
 ![image](./data_set.png)
 
 ## Method
----
 
 ### 1. Create Survey for A/B Testing
 </br>
@@ -20,8 +19,6 @@
 
 
 ## Result
----
-</br>
 
 <span style="color:#85C1E9"> **Coke 2 packages not difference**
 
